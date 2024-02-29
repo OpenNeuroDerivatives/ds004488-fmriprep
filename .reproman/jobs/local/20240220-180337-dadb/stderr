@@ -1,0 +1,12 @@
+Warning: Permanently added 'c158-101' (ECDSA) to the list of known hosts.
+WARNING (02/21/24 23:14:18): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6123407.hostlist.duaspJTT to get hosts
+starting job on c158-101
+starting job on c158-112
+starting job on c158-212
+starting job on c158-214
+starting job on c159-011
+starting job on c159-101
+starting job on c160-011
+starting job on c160-021
+Terminated

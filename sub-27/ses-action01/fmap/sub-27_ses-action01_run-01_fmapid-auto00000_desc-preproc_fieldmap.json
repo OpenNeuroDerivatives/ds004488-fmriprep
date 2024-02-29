@@ -1,0 +1,28 @@
+{
+  "AnatomicalReference": "sub-27_ses-action01_run-01_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-27_ses-action01_run-01_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-27_ses-action01_run-01_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "ses-action01/func/sub-27_ses-action01_task-action_run-01_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-02_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-03_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-04_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-05_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-06_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-07_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-08_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-09_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-10_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-11_bold.nii.gz",
+    "ses-action01/func/sub-27_ses-action01_task-action_run-12_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004488-fmriprep/sourcedata/raw/sub-27/ses-action01/fmap/sub-27_ses-action01_run-01_phasediff.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004488-fmriprep/sourcedata/raw/sub-27/ses-action01/fmap/sub-27_ses-action01_run-01_magnitude1.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004488-fmriprep/sourcedata/raw/sub-27/ses-action01/fmap/sub-27_ses-action01_run-01_magnitude2.nii.gz"
+  ],
+  "Units": "Hz"
+}
