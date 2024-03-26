@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Mq/Kp/MD5E-s505131--ddb3693c0b92ef5ae5f12f6a10ef7640.K/MD5E-s505131--ddb3693c0b92ef5ae5f12f6a10ef7640.K
